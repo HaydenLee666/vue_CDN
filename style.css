@@ -30,6 +30,8 @@
     border-radius: 50%;
     border: 5px #333 solid;
     margin-bottom: 1rem;
+    height: 138px;
+    width: 138px;
   }
   
   .male {
